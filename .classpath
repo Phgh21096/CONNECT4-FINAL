@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Connect4-bf352c4068d75f632b62cedee01d77f5bd785a6c/src"/>
+	<classpathentry kind="src" path="Connect4-bf352c4068d75f632b62cedee01d77f5bd785a6c/test"/>
+	<classpathentry kind="lib" path="Connect4-bf352c4068d75f632b62cedee01d77f5bd785a6c/jar/Connect4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
