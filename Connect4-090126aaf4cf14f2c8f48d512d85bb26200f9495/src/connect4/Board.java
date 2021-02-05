@@ -3,8 +3,6 @@ package connect4;
 
 import java.util.ArrayList;
 
-import utilities.Constants;
-
 
 public class Board {
 	

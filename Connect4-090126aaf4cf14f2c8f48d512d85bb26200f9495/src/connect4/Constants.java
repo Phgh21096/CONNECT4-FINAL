@@ -1,4 +1,4 @@
-package utilities;
+package connect4;
 
 
 public class Constants {
@@ -10,8 +10,6 @@ public class Constants {
 	public static final int NUM_OF_ROWS = 6;
 	public static final int NUM_OF_COLUMNS = 7;
 	public static final int IN_A_ROW = 4;
-	
-	public static final int AI_MOVE_MILLISECONDS = 250;
 	
 	// Board values
 	public static final int P1 = 1;  // Player 1

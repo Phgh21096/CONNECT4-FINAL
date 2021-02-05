@@ -1,4 +1,4 @@
-package utilities;
+package connect4;
 
 import enumerations.Color;
 import enumerations.GameMode;

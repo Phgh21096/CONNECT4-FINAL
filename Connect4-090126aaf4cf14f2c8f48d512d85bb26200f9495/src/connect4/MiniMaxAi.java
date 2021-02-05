@@ -4,8 +4,6 @@ package connect4;
 import java.util.ArrayList;
 import java.util.Random;
 
-import utilities.Constants;
-
 
 public class MiniMaxAi {
 	
